@@ -12,6 +12,7 @@
   "dependencies": {
     "@nuxt/icon": "^1.10.3",
     "@nuxtjs/tailwindcss": "^6.12.2",
+    "@vite-pwa/nuxt": "^0.10.6",
     "aos": "^2.3.4",
     "nuxt": "^3.15.0",
     "nuxt-aos": "^1.2.5",
